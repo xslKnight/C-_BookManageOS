@@ -1,0 +1,2 @@
+F:\C#\FinalWork\xsl_FinalWork\InstallDB\obj\Debug\InstallDB.csprojAssemblyReference.cache
+F:\C#\FinalWork\xsl_FinalWork\InstallDB\obj\Debug\InstallDB.csproj.CoreCompileInputs.cache
